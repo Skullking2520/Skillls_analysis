@@ -1,1 +1,1 @@
-# Skillls_analysis
+# 역량 분석
